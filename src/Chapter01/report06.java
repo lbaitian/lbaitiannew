@@ -21,5 +21,10 @@ public class report06 {
 
         char c1 = '李';
         String str2 = c1 + "";
+        System.out.println("--------------------------------");
+        byte a = 10;
+        byte b = 20;
+        a += b;
+        System.out.println(a);
     }
 }
