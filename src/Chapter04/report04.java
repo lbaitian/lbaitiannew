@@ -2,6 +2,7 @@ package Chapter04;
 
 public class report04 {
     public static void main(String[] args) {
+        
         //需求：某部门每名员工的销售额分别是：16，26，36，6，100，计算他们部门的总销售额
         /*
         分析：

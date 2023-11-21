@@ -2,6 +2,7 @@ package Chapter04;
 
 public class report07 {
     public static void main(String[] args) {
+        //求最值
         //数组元素求最值
         int[] face = {15,9000,10000,20000,9500,-5};
                 //     0   1    2     3    4    5
