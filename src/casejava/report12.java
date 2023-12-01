@@ -62,7 +62,7 @@ public class report12 {
         return numbers;
     }
 
-    private static boolean exist(int[] numbers, int number) {
+    static boolean exist(int[] numbers, int number) {
         //判断number这个数字是否存在numbers数组中存在
         //numbers = 【12，25，18，0，0，0，0】
         //number = 26
