@@ -32,7 +32,7 @@ public class Account {
         this.sex = sex;
     }
 
-    public String getPassWord(String okPassWord) {
+    public String getPassWord() {
         return passWord;
     }
 
